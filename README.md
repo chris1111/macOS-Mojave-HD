@@ -17,19 +17,19 @@ NOTE: You can choose to install in HFS+J or APFS
 
 Make sure you have Install macOS Mojave.app on your Mac.
 You need a blank SSD / HD before using the Program!
-   ---------------------
+   
 The Clover Post Installer is included to make your Volume (SSD / HD) bootable.
 
 
 ### macOS-Mojave-HD
 Credit: chris1111 and Tester: 
 - Bumbay, arcade33, emax31, jamesmyriam42, Mategen84, mus68
---------------------------------- 
+
 
 ### Clover EFI Bootloader 
 Credit: Developers:
 - Slice, with help of Kabyl, usr-sse2, jadran, Blackosx, dmazar, STLVNUB, pcj, apianti, JrCs, pene, FrodoKenny, skoczy, ycr.ru, Oscar09, xsmile, SoThOr, rehabman, Download-Fritz, Zenit432, cecekpawon…
---------------------------------- 
+ 
 
 For the demonstration of the video, I will cut the video because it gives nothing that I stay 15 minutes during the installation.
 
