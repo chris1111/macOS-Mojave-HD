@@ -31,10 +31,11 @@ Credit: Developers:
 - Slice, with help of Kabyl, usr-sse2, jadran, Blackosx, dmazar, STLVNUB, pcj, apianti, JrCs, pene, FrodoKenny, skoczy, ycr.ru, Oscar09, xsmile, SoThOr, rehabman, Download-Fritz, Zenit432, cecekpawon…
  
 
-For the demonstration of the video, I will cut the video because it gives nothing that I stay 15 minutes during the installation.
-
 ## [Download ➪ macOS-Mojave-HD-V1.1.dmg.zip](https://github.com/chris1111/macOS-Mojave-HD/releases/tag/V1.1)
 
-## Follow every steps in the Video ⇩
+### NOTE: For the demonstration of the video, I will cut the video because it gives nothing that I stay 15 minutes during the installation.
+
+## Follow every steps in the Video 
+                       ⇩
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captur86.png)]()
 
