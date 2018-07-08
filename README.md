@@ -13,7 +13,6 @@ You can use this program only in macOS Sierra 10.12, macOS High Sierra 10.13, an
 5- The installation time is 15 to 20 minutes depending on the speed of your drive and your system
 
 This program will deploy macOS Mojave on the SSD / HD of your choice.
-NOTE: You can choose to install in HFS+J or APFS
 
 Make sure you have Install macOS Mojave.app on your Mac.
 You need a blank SSD / HD before using the Program!
