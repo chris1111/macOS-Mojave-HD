@@ -1,7 +1,7 @@
 ## macOS-Mojave-HD
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/applet11.png)
 
-1- This programme works in real Mac or Hackintosh.
+1- This program works in real Mac or Hackintosh.
 You can use this program only in macOS Sierra 10.12, macOS High Sierra 10.13, and macOS Mojave 10.14 to create the installation volume
 
 2- You can use an internal or external SSD or HD
