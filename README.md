@@ -20,6 +20,8 @@ You need a blank SSD / HD before using the Program!
    
 The Clover Post Installer is included to make your Volume (SSD / HD) bootable.
 
+## Of course you must have the SIP Security disable as well as the GateKeeper to use this program.
+
 
 ### macOS-Mojave-HD
 Credit: chris1111 and Tester: 
