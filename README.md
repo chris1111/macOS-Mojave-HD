@@ -24,7 +24,7 @@ The Clover Post Installer is included to make your Volume (SSD / HD) bootable.
 
 ### macOS-Mojave-HD
 Credit: chris1111 and Tester: 
-- Bumbay, arcade33, emax31, jamesmyriam42, Mategen84, mus68
+- Bumbay, arcade33, emax31, jamesmyriam42, Mategen84, mus68, fotograf59
 
 
 ### Clover EFI Bootloader 
