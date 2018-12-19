@@ -1,4 +1,7 @@
 ## macOS-Mojave-HD
+- This is to test macOS
+- Buy a mac after testing macOS
+
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/applet11.png)
 
 1- This program works in real Mac or Hackintosh.
