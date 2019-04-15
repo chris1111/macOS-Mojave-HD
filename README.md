@@ -1,6 +1,9 @@
 ## macOS-Mojave-HD
 - This is to test macOS
 - Buy a mac after testing macOS
+- Update 15 April 2019: Release V1.4 ➣ Clover r4918
+- Support Dark Mode
+
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/applet11.png)
 
@@ -35,7 +38,7 @@ Credit: Developers:
 - Slice, with help of Kabyl, usr-sse2, jadran, Blackosx, dmazar, STLVNUB, pcj, apianti, JrCs, pene, FrodoKenny, skoczy, ycr.ru, Oscar09, xsmile, SoThOr, rehabman, Download-Fritz, Zenit432, cecekpawon…
  
 
-## [Download ➪ macOS-Mojave-HD-V1.2.dmg.zip](https://github.com/chris1111/macOS-Mojave-HD/releases/tag/V1.2)
+## [Download ➪ macOS-Mojave-HD-V1.4.dmg.zip](https://github.com/chris1111/macOS-Mojave-HD/releases/tag/V4)
 
 ### NOTE: For the demonstration of the video, I will cut the video because it gives nothing that I stay 15 minutes during the installation.
 
