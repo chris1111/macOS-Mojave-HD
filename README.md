@@ -38,7 +38,7 @@ Credit: Developers:
 - Slice, with help of Kabyl, usr-sse2, jadran, Blackosx, dmazar, STLVNUB, pcj, apianti, JrCs, pene, FrodoKenny, skoczy, ycr.ru, Oscar09, xsmile, SoThOr, rehabman, Download-Fritz, Zenit432, cecekpawon…
  
 
-## [Download ➪ macOS-Mojave-HD-V1.4.dmg.zip](https://github.com/chris1111/macOS-Mojave-HD/releases/tag/V4)
+## [Download ➪ macOS-Mojave-HD-V1.4.dmg.zip](https://github.com/chris1111/macOS-Mojave-HD/releases/tag/V1.4)
 
 ### NOTE: For the demonstration of the video, I will cut the video because it gives nothing that I stay 15 minutes during the installation.
 
